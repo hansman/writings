@@ -70,3 +70,79 @@ Don't include personal messages in code reviews. You are speaking to the code ch
 
 Your language matters. It is the medium that transports your review. Make sure to use exclusively positive and respectful language. An emotional touch should be absolutely avoided. Your code review should exclusively foster collaboration and engagement. Negative language or even shaming people is not adding value and is an effective way to discourage the reviewee.
 
+
+
+
+------------------
+
+
+
+
+# Reviewing Code
+
+Code-Reviews sind eines der wichtigsten Tools, um Softwareteams miteinander zu synchronisieren. Sie ermöglichen Codern, ihr Wissen über die Codebasis und das System auszutauschen, Probleme zu erkennen, Stil durchzusetzen, Anleitung und Mentoring zu geben. Wenn dies richtig gemacht wird, werden Codeüberprüfungen eine Zusammenarbeit aufbauen, die Einbindung fördern, Codierer für den Codeigentum fördern und Organisationshierarchien überbrücken. In Anbetracht der Auswirkungen auf die Produktivität von Teams und Einzelpersonen hier einige Richtlinien, Empfehlungen und Hinweise zur Überprüfung von Code.
+
+## courtesy
+Halten Sie es unter allen Umständen freundlich. Zeigen Sie Höflichkeit in Ihrer Haltung und Ihrem Verhalten gegenüber dem Rezensenten. Ihre Denkweise sollte darin bestehen, eine integrative Kultur aufzubauen und zu versuchen, Probleme zu lösen, die über die Pull-Anforderung hinausgehen.
+
+## explain why
+Sie haben einen Punkt, der allzu offensichtlich erscheint? Möglicherweise fehlen Ihnen viele Informationen, um zu verstehen, warum sie auf diese Weise implementiert wurden. Fragen Sie nach dem Grund und erklären Sie immer, warum Sie etwas vorschlagen. Auf diese Weise kann der Rezensent Ihre Absicht verstehen.
+
+## learn
+Sie werden aufgefordert, Code zu überprüfen, da Sie auf einer gemeinsamen Codebasis zusammenarbeiten. In vielen Code-Reviews haben Sie weniger Erfahrung als der Reviewee. Sehen Sie sich die Code-Überprüfung als offenen Austausch an, um die Arbeit Ihrer Kollegen zu verstehen.
+
+## provide support
+Es ist nicht Ihre Aufgabe, Probleme für andere zu beheben, sondern es ist Ihre Aufgabe, Unterstützung bereitzustellen. Ihre Rezension sollte reich an Referenzen und gemeinsamen Erfahrungen sein, die den Rezensenten eher unterstützen als genaue Lösungen.
+
+
+## give guidance
+Code-Reviews sind eine gute Möglichkeit, andere zu beraten. Mit Ihrem Review haben Sie die Möglichkeit, mit gutem Beispiel voranzugehen, langfristig zu lösen und die Leistungen des Rezensenten zu feiern.
+
+Hier einige Empfehlungen für respektvolle Code-Reviews.
+
+### dos
+- assume competence
+
+Übernehmen Sie Kompetenz in Ihrem Gutachter. Der Prüfling hat einen Auswahlprozess durchlaufen, um mit Ihnen in dieser Codebasis zusammenzuarbeiten. Wenn Sie in Ihrem Gutachter keine Kompetenz vermuten, werden Sie dies auch nicht durch eine Codeüberprüfung beheben.
+
+- discuss architecture before code review
+
+Die Codeüberprüfung sollte keine Änderung der Architektur oder der grundlegenden Struktur einer Pull-Anforderung anfordern. Setzen Sie für strukturelle Änderungen die Erwartungen zusammen, bevor der Code implementiert wird.
+
+- respond timely
+
+Stellen Sie Code-Überprüfungen rechtzeitig zur Verfügung. Hinterlasse einen Kommentar, wenn du es nicht rechtzeitig überprüfen kannst.
+
+- provide complete review
+
+Stellen Sie eine vollständige Codeüberprüfung bereit. Das Ziel ist, Ihre Änderungsanforderungen in einem vollständigen Durchlauf bereitzustellen. Um den Punkt zu erreichen, helfen Code-Reviews dem Team, Impulse zu setzen, und ermutigen die Rezensenten zu mehr Eigenverantwortung.
+
+- ask why
+
+Sie verstehen den Code nicht oder schlagen vor, es anders zu machen? Fragen Sie, warum der Rezensent auf diese Weise umgesetzt wurde.
+
+- make in person calls
+
+Sie haben einen Punkt in Ihrer Rezension, der eine Hin- und Her-Diskussion erzeugt. Zeigen Sie sich kollaborativ, indem Sie einen kurzen Anruf zur Klärung einleiten.
+
+- share insight
+
+Erlauben Sie dem Rezensenten, von Ihnen zu lernen. Ein Rezensent ist möglicherweise neu in einer Codebasis und tut alles, um sich schnell anzupassen. Wenn Sie Erfahrung mit dem betreffenden Code haben, teilen Sie Ihre Erfahrungen großzügig mit.
+
+- agree to disagree
+
+Konzentrieren Sie sich auf die wichtigsten Aspekte und praktischen Details des Pull-Antrags und stimmen Sie zu, weniger wichtigen Details nicht zuzustimmen.
+
+### donts
+
+- don't ask for changes after the changes have been addressed
+
+Versuchen Sie, nicht nach weiteren neuen Änderungen zu fragen, nachdem erforderliche Änderungen behoben wurden, es sei denn, etwas Unvorhersehbares und Kritisches wurde geändert. Ihre Überprüfung sollte abgeschlossen sein. Fordern Sie nicht mehr als (~) zwei Patches für die Pull-Anfrage an, sondern führen Sie anschließend zusammen oder lehnen Sie sie ab. Durch kaskadierte Codeüberprüfungen kann das Moment abgetötet und das Engagement entmutigt werden.
+
+- don't comment on person but the code
+
+Fügen Sie keine persönlichen Nachrichten in Code-Reviews ein. Sie sprechen mit der Codeänderung, aber nicht mit der Person. Halte dich ausschließlich an die Fakten.
+
+- don't use extreme or negative language
+
+Ihre Sprache ist wichtig. Es ist das Medium, das Ihre Rezension transportiert. Achten Sie darauf, ausschließlich positive und respektvolle Sprache zu verwenden. Eine emotionale Berührung sollte unbedingt vermieden werden. Ihre Codeüberprüfung sollte ausschließlich die Zusammenarbeit und das Engagement fördern. Negative Sprache oder sogar eine Schande für Menschen bringt keinen Mehrwert und ist ein wirksames Mittel, um den Rezensenten zu entmutigen.
