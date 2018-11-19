@@ -1,4 +1,4 @@
-### A Communication System on Collaboration
+### A Communication System for Collaboration
 
 
 This is a visualization of a communication system of 2 actors: actor B is the receiver of the task instructed by actor A. To give an example actor A could be the teacher giving a homework to a student actor B or actor A could be the manager of employee B or actor A could be a sport coach of actor B in a sport team or actor A could be a client requesting a service from actor B.
