@@ -5,20 +5,20 @@ This is a visualization of a communication system of 2 actors: actor B is the re
 
 The 6 steps to fail a task as an instructor (A)
 
-1. Assuming the task to be delegated is small and mundane in its nature
-2. Expecting task to go smooth without effort since (1)
-3. Feeling powerless in case the task actually fails since (1)
-4. Putting no effort in communication since either 2) or 3)
+1. Assumes that the task to be delegated is small and mundane in its nature
+2. Expects task to go smooth without effort since (1)
+3. Feels powerless in case the task actually fails since (1)
+4. Puts no effort in communication since either 2) or 3)
 5. Task fails due to lag of communication as per 4)
-6. Communicating less because of bad experience and 3)
+6. Communicats less with (B) because of bad experience in (5) and because of (3)
 
 The 6 steps of failing a task as a receiver (B)
-1. Getting a new task
+1. Gets a new task assigned
 2. The task requires more clarification so that everything gets done well
-3. Not getting smooth and solid communication with (A) stating and confirming all requirements for the task
+3. Gets no smooth and solid communication with (A) that does not state and confirm all requirements for the task
 4. (A) seems to not care very much since there is no communication
 5. Task fails
-6. Communication channel to A declines due to bad experience
+6. Communication channel to (A) declines due to bad experience in (5)
 
 -----------
 
