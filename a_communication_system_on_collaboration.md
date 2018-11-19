@@ -22,7 +22,7 @@ The 6 steps of failing a task as a receiver (B)
 
 -----------
 
-Dies ist eine Visualisierung eines Kommunikationssystems aus zwei Agents: Agent B ist der Empfänger der von Agent A angewiesenen Aufgabe. Ein Beispiel für Agent A könnte der Lehrer sein, der einem Schüler, Agent B, Hausarbeiten gibt, oder Agent A könnte der Manager sein von Agent B oder Agent A könnte ein Sporttrainer von Agent B in einer Sportmannschaft sein, oder Agent A könnte ein Kunde sein, der einen Dienst von Agent B anfordert.
+Dies ist eine Visualisierung eines Kommunikationssystems von zwei Agenten: Agent B ist der Empfänger der von Agent A angewiesenen Aufgabe. Ein Beispiel für Agent A könnte der Lehrer sein, der einem Schüler, Agent B, Hausarbeiten gibt, oder Agent A könnte der Manager sein von Agent B oder Agent A könnte ein Sporttrainer von Agent B in einer Sportmannschaft sein, oder Agent A könnte ein Kunde sein, der einen Dienst von Agent B anfordert.
 
 Die 6 Schritte zum Scheitern einer Aufgabe als Aufgabensteller (A)
 
