@@ -9,7 +9,4 @@ This repository consists of excerpts from my personal notes. Every note is on a 
 - [On Social Mobility](https://github.com/hansman/writings/blob/master/on_social_mobility.md)
 
 
-on_communication_systems_on_task_collaboration.md
-
-
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
