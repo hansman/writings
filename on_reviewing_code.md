@@ -45,7 +45,7 @@ You don't understand the code or suggest to do it differently? Ask why the revie
 
 - make in person calls
 
-You have a point in your review that generates a back and forth discussion. Show yourself collaborative by initiating a quick call to clarify.
+You have a point in your review that generates a back and forth discussion? Show yourself collaborative by initiating a quick call to clarify.
 
 - share insight
 
