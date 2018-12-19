@@ -3,6 +3,7 @@ This repository consists of excerpts from my personal notes. Every note is on a 
 
 - [A Communication System for Collaboration](https://github.com/hansman/writings/blob/master/a_communication_system_for_collaboration.md)
 - [On Adults](https://github.com/hansman/writings/blob/master/on_adults.md)
+- [On Engineers and Artists](https://github.com/hansman/writings/blob/master/on_engineers_and_artists.md)
 - [On Focus](https://github.com/hansman/writings/blob/master/on_focus.md)
 - [On Progress](https://github.com/hansman/writings/blob/master/on_progress.md)
 - [On Reviewing Code](https://github.com/hansman/writings/blob/master/on_reviewing_code.md)
