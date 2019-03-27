@@ -9,7 +9,7 @@ Keep it friendly under all circumstances. Show politeness in your attitude and b
 You have a point that appears all too obvious? Very possible you are missing a lot of information required to understand why it has been implemented this way. Ask why and always explain why you suggest something. This way the reviewee can understand your intention.
 
 ## learn
-You are requested for reviewing code because you are collaborating on a shared code base. In many code reviews you will have less expertise than the reviewee. See the code review as an open exchange to understand your peers work.
+You are requested for reviewing code because you are collaborating on a shared code base. In many code reviews you will have less expertise than the reviewee. See the code review as an open exchange to understand your peer's work.
 
 ## provide support
 It is not your job to fix problems for others but its your job to provide support. Your review should be rich of references and shared experiences that support the reviewee rather than precise solutions.
