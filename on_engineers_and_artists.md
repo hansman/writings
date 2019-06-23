@@ -3,7 +3,7 @@ Den Künstler und den Ingenieur vereinen ihr Streben nach Wahrheit die die Reali
 
 ------------------
 
-The artist and the engineer unite their quest for truth, which depicts reality. What separates the artist and the engineer is their dealings with this truth and what part of reality they explore. The artist plays with reality and all its problems without solving anything. He / She / They include the transcendental while the engineer only works with the scientific world. The engineer tries to scientifically formulate and solve the problems of reality, he / she / they try to solve problems. Both, artists and engineers, complement each other and can give each other a lot. While the artist benefits from the methodology, language and discovery of the engineer, the engineer benefits from the poetics of the artist, which brings systematic progress to life. Both, engineer and artist, inevitably implement ethics and politics with their work.
+The artist and the engineer unite their quest for truth, which depicts reality. What separates the artist and the engineer is their dealings with this truth and what part of reality they explore. The artist plays with reality and all its problems without solving any. They include the transcendental while the engineer only works with the scientific world. The engineer tries to scientifically formulate and solve the problems of reality, they try to solve problems. Both, artists and engineers, complement each other and can give each other a lot. While the artist benefits from the methodology, language and discovery of the engineer, the engineer benefits from the poetics of the artist, which brings systematic progress to life. Both, engineer and artist, inevitably implement ethics and politics with their work.
 
 
 
