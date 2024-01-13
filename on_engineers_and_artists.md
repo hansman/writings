@@ -8,3 +8,7 @@ The artist and the engineer unite their quest for truth, which depicts reality. 
 
 
 Discovered throughout working with [Eunsun Choi](http://www.eunsunchoi.com/).
+
+
+"In the work of art the truth of beings has set itself to work."
+Martin Heidegger
