@@ -6,7 +6,7 @@ If we want, things can be figured out.
 
 
 If we want, we can look each others in the eyes <br>
-without bing nervous and never stop. <br>
+without being nervous and never stop. <br>
 If we want we can understand each other.
 
 
