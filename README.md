@@ -13,6 +13,7 @@ This repository consists of excerpts from my personal notes. Every note is on a 
 - [On Solace](https://github.com/hansman/writings/blob/master/on_solace.md)
 - [On Discovery](https://github.com/hansman/writings/blob/master/on_discovery.md)
 - [On The Man in the Storm](https://github.com/hansman/writings/blob/master/on_the_man_in_the_storm.md)
+- [On Qualities](https://github.com/hansman/writings/blob/master/on_qualities.md)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
