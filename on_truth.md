@@ -1,0 +1,1 @@
+The good thing about thruth is that it is sticky. Don't worry about the story lines that are being constructed, no need to make corrections. The essence stays, as the good thing about truth is that it is sticky. 
